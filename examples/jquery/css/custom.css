@@ -28,6 +28,6 @@ body {
 	border-top: 1px solid #eee;
 }
 
-aside.learn {
+.learn-bar aside.learn {
 	display: none;
 }
