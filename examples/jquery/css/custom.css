@@ -27,3 +27,7 @@ body {
 #new-todo {
 	border-top: 1px solid #eee;
 }
+
+aside.learn {
+	display: none;
+}
