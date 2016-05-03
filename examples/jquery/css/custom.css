@@ -1,0 +1,29 @@
+
+body {
+	background: #fff;
+	
+}
+.dvdsmpsn-padding {
+}
+#todoapp {
+	margin-top: 100px;
+
+}
+
+#todoapp h1 {
+	font-size: 50px;
+    top: -100px;
+	color: rgba(175, 47, 47, 0.6);
+}
+
+#new-todo, 
+.edit,
+#todo-list li {
+    font-size: 16px;
+	
+}
+
+
+#new-todo {
+	border-top: 1px solid #eee;
+}
